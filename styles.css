@@ -1,0 +1,48 @@
+ .container{
+     display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;
+ }
+ .timilehin{
+     display: flex;
+     align-items: baseline;
+ }
+.counter{
+    color: rgb(0, 204, 255);
+    font-size: 900%;
+    font-family: Major Mano Display;
+    align-items:baseline;
+}
+.score{
+    display: flex;
+    justify-content: center;
+    margin:10px auto;
+    color: rgb(0, 238, 255);
+    font-size: 20px;
+    border: 1px solid rgb(0, 238, 255);
+    width: 40%;
+    padding:1%;
+    text-align: center;
+
+}
+.para{
+    text-align: center;
+    font-size: 190%;
+    color: darkmagenta
+}
+
+.middo{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 20px
+}
+.skiddo{
+    float:right;
+    
+}
+
+.kikp{
+    display:flex;
+    flex-wrap: wrap;
+    align-self: flex-start
+}
